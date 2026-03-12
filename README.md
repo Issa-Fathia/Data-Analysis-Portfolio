@@ -3,8 +3,8 @@ Welcome to my data analysis portfolio.
 I analyze datasets, discover patterns, and present insights using data.
 
 ## Tools I Use
-Excel
-Power BI
+Excel |
+Power BI |
 SQL
 
 ## Featured Projects
