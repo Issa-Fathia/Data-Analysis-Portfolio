@@ -8,7 +8,10 @@ Power BI |
 SQL
 
 ## Featured Projects
-Project will be added here as I complete them.
+### Road Crash Analysis
+Power BI dashboard analysing 52,681 Australian road crash records spanning 33 years.
+
+[View Project](https://github.com/Issa-Fathia/road-crash-analysis)
 
 ## About Me
 I am a data analyst and front-end web developer who enjoys turning raw data into clear insights and visual stories.
