@@ -21,7 +21,7 @@ Power BI dashboard analysing 52,681 Australian road crash records spanning 33 ye
 Power BI dashboard analyzing 7,991 US retail sales orders across 45 states, 
 with data cleaned and joined from 4 source tables using MySQL.
 
-[View Project](https://github.com/Issa-Fathia/retail-sales-analysis)
+[View Project](https://github.com/Issa-Fathia/Sales-Performance-Dashboard)
 
 ## About Me
 I am a data analyst and front-end web developer who enjoys turning raw data into clear insights and visual stories.
